@@ -6,7 +6,7 @@ A deep learning project to classify brain MRI images into four tumor types using
 
 ## 🧪 Dataset
 
-- **Source**: [Brain Tumor MRI Dataset (Kaggle)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+- **Source**: [Brain Tumor MRI Dataset (https://drive.google.com/drive/folders/1-vpFiiey8LWfd6ook5-miDSl-6WHsg2a?usp=drive_link)]
 - **Classes**:
   - `glioma_tumor`
   - `meningioma_tumor`
