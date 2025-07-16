@@ -55,6 +55,11 @@ scikit-learn
 matplotlib
 seaborn
 
+
+CustomCN model Gdrive Link : https://drive.google.com/file/d/1GH_XGhDIfXyxWB5BMxWdpLNi7YhhyotI/view
+
+
+
 📬 Author
 Eraiyanbu Arulmurugan
 Eraiyanbu-Git
